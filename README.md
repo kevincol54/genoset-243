@@ -18,6 +18,21 @@ console.log(increasedRisk(dna));
 // → `true` or `false`
 ```
 
+## Contributions
+
+This Project follows the StandardJS style guide.
+
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
+To Contribute:
+
+- Clone Repo
+- `npm install`
+- Write Code
+- Write Test(s)
+- Submit Pull Request
+
+
 ## Author
 
 | [![twitter/kevco54](https://gravatar.com/avatar/c3f0cac49ad7d267cb58499a86bfdd19)](https://twitter.com/kevco54 "Follow @kevco54 on Twitter") |
